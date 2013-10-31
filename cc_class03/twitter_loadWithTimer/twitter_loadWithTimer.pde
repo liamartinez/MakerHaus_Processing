@@ -1,8 +1,4 @@
 
-import twitter4j.*;
-
-import twitter4j.conf.*;
-
 import java.util.List; //java library for arraylists
 import java.util.Date; //java library for date
 

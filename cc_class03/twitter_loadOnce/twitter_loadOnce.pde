@@ -4,11 +4,6 @@ example from Jer Thorp's tutorial: http://blog.blprnt.com/blog/blprnt/updated-qu
  */
 
 
-
-import twitter4j.*;
-
-import twitter4j.conf.*;
-
 import java.util.List; //java library
 import java.util.Date; //java library
 
