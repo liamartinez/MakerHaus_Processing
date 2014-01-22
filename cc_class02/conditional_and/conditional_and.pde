@@ -18,4 +18,5 @@ void keyPressed() {
   else if (key != 'b' || key != 'a') { //basically the same as just saying "else", but we needed to see != used.
     println ("NOT THE LETTER A or B!");
 }
+}
 

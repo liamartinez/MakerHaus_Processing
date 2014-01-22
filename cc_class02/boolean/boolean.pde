@@ -1,9 +1,7 @@
-
-boolean isOn; 
+boolean isOn = false; 
 
 void setup() {
   size(500, 500); 
-  isOn = false;
 }
 
 void draw() {
